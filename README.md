@@ -17,5 +17,6 @@ pip install statsmodels matplotlib
 
 ```
     . env/bin/activate
-    PYTHONPATH=. python3 main.py ~/Download/Activities.csv 12 300
+    PYTHONPATH=. python3 main.py ~/Downloads/Activities.csv 12 300 2021-01-01 2021-03-31
+    PYTHONPATH=. python3 main.py ~/Downloads/Activities.csv 12 300 2021-05-01 2021-05-31
 ```
